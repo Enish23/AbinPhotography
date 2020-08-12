@@ -1,0 +1,609 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Singlepage 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-17 18:11+0800\n"
+"PO-Revision-Date: 2016-08-24 18:55+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: HooThemes <support@hoosoft.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11 content-article.php:10 single.php:35
+msgid "No comment"
+msgstr ""
+
+#: comments.php:11
+msgid "Has one comment"
+msgstr ""
+
+#: comments.php:11 content-article.php:10 single.php:35
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:12
+msgid "You can "
+msgstr ""
+
+#: comments.php:12
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:12
+msgid " or "
+msgstr ""
+
+#: comments.php:12
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:12
+msgid "this post."
+msgstr ""
+
+#: comments.php:24
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:67
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:70
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: comments.php:75
+msgid "Message"
+msgstr ""
+
+#: content-article.php:10 single.php:35
+msgid "No comments yet"
+msgstr ""
+
+#: content-article.php:10 single.php:35
+msgid "1 comment"
+msgstr ""
+
+#: content-article.php:11 includes/breadcrumbs.php:833
+#: includes/breadcrumbs.php:859 includes/breadcrumbs.php:871
+#: includes/breadcrumbs.php:893 single.php:37
+msgid "Edit"
+msgstr ""
+
+#: content-article.php:21
+msgid "Read More"
+msgstr ""
+
+#: footer-featured.php:44 footer.php:39
+#, php-format
+msgid "Designed by <a href=\"%s\">HooThemes</a>."
+msgstr ""
+
+#: includes/breadcrumbs.php:111
+msgid "Browse:"
+msgstr ""
+
+#: includes/breadcrumbs.php:112
+msgid "Home"
+msgstr ""
+
+#: includes/breadcrumbs.php:113
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/breadcrumbs.php:114
+msgid "Archives"
+msgstr ""
+
+#: includes/breadcrumbs.php:116
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/breadcrumbs.php:118
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:120
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:122
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:853
+msgid "Split"
+msgstr ""
+
+#: includes/breadcrumbs.php:856
+msgid "Merge"
+msgstr ""
+
+#: includes/custom-functions.php:89
+#, php-format
+msgid "<cite> %s </cite><span class=\"says\">says:</span>"
+msgstr ""
+
+#: includes/custom-functions.php:91
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/custom-functions.php:92
+msgid "(Edit)"
+msgstr ""
+
+#: includes/custom-functions.php:98
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/custom-functions.php:115
+msgid "Untitled"
+msgstr ""
+
+#: includes/custom-functions.php:330
+#, php-format
+msgid "Theme Options have been migrated to <a href=\"%s\">customize</a>."
+msgstr ""
+
+#: includes/customizer.php:59 includes/options-kirki.php:496
+msgid "SP: Frontpage Sections"
+msgstr ""
+
+#: includes/metabox-options.php:36
+msgid "Singlepage Metabox Options"
+msgstr ""
+
+#: includes/metabox-options.php:120
+msgid "Show Breadcrumb :"
+msgstr ""
+
+#: includes/metabox-options.php:123 includes/metabox-options.php:132
+#: includes/options-kirki.php:706 includes/options-kirki.php:716
+#: includes/options-kirki.php:726 includes/options-kirki.php:798
+msgid "Yes"
+msgstr ""
+
+#: includes/metabox-options.php:124 includes/metabox-options.php:133
+#: includes/options-kirki.php:706 includes/options-kirki.php:716
+#: includes/options-kirki.php:726 includes/options-kirki.php:798
+msgid "No"
+msgstr ""
+
+#: includes/metabox-options.php:129
+msgid "Show Title :"
+msgstr ""
+
+#: includes/metabox-options.php:137
+msgid "Choose Sidebar Layout :"
+msgstr ""
+
+#: includes/metabox-options.php:140
+msgid "no sidebar"
+msgstr ""
+
+#: includes/metabox-options.php:141
+msgid "left sidebar"
+msgstr ""
+
+#: includes/metabox-options.php:142
+msgid "right sidebar"
+msgstr ""
+
+#: includes/options-kirki.php:128
+msgid "Section Content Typography"
+msgstr ""
+
+#: includes/options-kirki.php:151
+msgid "Section Background"
+msgstr ""
+
+#: includes/options-kirki.php:174
+msgid "Content Image"
+msgstr ""
+
+#: includes/options-kirki.php:179
+msgid "Content Image Link"
+msgstr ""
+
+#: includes/options-kirki.php:185
+msgid "Content Image Link Target"
+msgstr ""
+
+#: includes/options-kirki.php:191
+msgid "Section Content Background"
+msgstr ""
+
+#: includes/options-kirki.php:196
+msgid "Opacity"
+msgstr ""
+
+#: includes/options-kirki.php:202
+msgid "Section Content Border Radius"
+msgstr ""
+
+#: includes/options-kirki.php:274
+msgid "All"
+msgstr ""
+
+#: includes/options-kirki.php:279
+msgid "--Disable--"
+msgstr ""
+
+#: includes/options-kirki.php:281
+#, php-format
+msgid "Sidebar %d"
+msgstr ""
+
+#: includes/options-kirki.php:488
+#, php-format
+msgid "Custom Section %d"
+msgstr ""
+
+#: includes/options-kirki.php:544
+msgid "SP: Frontpage Options"
+msgstr ""
+
+#: includes/options-kirki.php:551
+msgid "General Options"
+msgstr ""
+
+#: includes/options-kirki.php:559
+msgid "Section Height Mode ( Desktop & Tablet )"
+msgstr ""
+
+#: includes/options-kirki.php:572
+msgid "Section Height Mode on Mobile"
+msgstr ""
+
+#: includes/options-kirki.php:584
+msgid "Hide Side Navigation"
+msgstr ""
+
+#: includes/options-kirki.php:593
+msgid "Scrolling Delay"
+msgstr ""
+
+#: includes/options-kirki.php:604
+msgid "Featured Homepage Sidebar"
+msgstr ""
+
+#: includes/options-kirki.php:623
+msgid "Padding Left on Mobile (<768px)"
+msgstr ""
+
+#: includes/options-kirki.php:632
+msgid "Padding Left on Tablets (<992px)"
+msgstr ""
+
+#: includes/options-kirki.php:641
+msgid "Padding Left on Desktops (<1200px)"
+msgstr ""
+
+#: includes/options-kirki.php:673
+msgid "Custom Side Nav Dot Image"
+msgstr ""
+
+#: includes/options-kirki.php:684
+msgid "YouTube Video Background"
+msgstr ""
+
+#: includes/options-kirki.php:691
+msgid "YouTube Video"
+msgstr ""
+
+#: includes/options-kirki.php:696
+msgid "Insert here the ID or the complete URL of the YouTube video"
+msgstr ""
+
+#: includes/options-kirki.php:701 includes/options-kirki.php:793
+msgid "Video Loop"
+msgstr ""
+
+#: includes/options-kirki.php:711
+msgid "Mute"
+msgstr ""
+
+#: includes/options-kirki.php:721
+msgid "Show Controls"
+msgstr ""
+
+#: includes/options-kirki.php:731
+msgid "Start At"
+msgstr ""
+
+#: includes/options-kirki.php:740 includes/options-kirki.php:813
+msgid "Video Background Section"
+msgstr ""
+
+#: includes/options-kirki.php:746 includes/options-kirki.php:819
+#: includes/options-kirki.php:873
+msgid "Disable"
+msgstr ""
+
+#: includes/options-kirki.php:747 includes/options-kirki.php:748
+#: includes/options-kirki.php:749 includes/options-kirki.php:750
+#, php-format
+msgid "Section %d"
+msgstr ""
+
+#: includes/options-kirki.php:759
+msgid "HTML5 Video Background Options"
+msgstr ""
+
+#: includes/options-kirki.php:766
+msgid "MP4 Video URL"
+msgstr ""
+
+#: includes/options-kirki.php:775
+msgid "OGV Video URL"
+msgstr ""
+
+#: includes/options-kirki.php:784
+msgid "Poster"
+msgstr ""
+
+#: includes/options-kirki.php:803
+msgid "Video Volume"
+msgstr ""
+
+#: includes/options-kirki.php:820 includes/options-kirki.php:821
+#: includes/options-kirki.php:822 includes/options-kirki.php:823
+#: includes/options-kirki.php:874 includes/options-kirki.php:875
+#: includes/options-kirki.php:876 includes/options-kirki.php:877
+#, php-format
+msgid "Secction %d"
+msgstr ""
+
+#: includes/options-kirki.php:832
+msgid "Full Screen Google Map"
+msgstr ""
+
+#: includes/options-kirki.php:839
+msgid "Google Map API Key"
+msgstr ""
+
+#: includes/options-kirki.php:844
+msgid "Get Google Map API Key"
+msgstr ""
+
+#: includes/options-kirki.php:849
+msgid "Address"
+msgstr ""
+
+#: includes/options-kirki.php:858
+msgid "Zoom"
+msgstr ""
+
+#: includes/options-kirki.php:867
+msgid "Google Map Section"
+msgstr ""
+
+#: includes/options-kirki.php:886
+msgid "Home Page Left Menu"
+msgstr ""
+
+#: includes/options-kirki.php:893
+msgid "Menu Style ( Desktop )"
+msgstr ""
+
+#: includes/options-kirki.php:898 includes/options-kirki.php:918
+#: includes/options-kirki.php:938
+msgid "Style 1"
+msgstr ""
+
+#: includes/options-kirki.php:898 includes/options-kirki.php:918
+#: includes/options-kirki.php:938
+msgid "Style 2"
+msgstr ""
+
+#: includes/options-kirki.php:903
+msgid "Menu Style Status ( Desktop )"
+msgstr ""
+
+#: includes/options-kirki.php:908 includes/options-kirki.php:928
+#: includes/options-kirki.php:948
+msgid "Open"
+msgstr ""
+
+#: includes/options-kirki.php:908 includes/options-kirki.php:928
+#: includes/options-kirki.php:948
+msgid "Close"
+msgstr ""
+
+#: includes/options-kirki.php:913
+msgid "Menu Style ( Tablet )"
+msgstr ""
+
+#: includes/options-kirki.php:923
+msgid "Menu Style Status ( Tablet )"
+msgstr ""
+
+#: includes/options-kirki.php:933
+msgid "Menu Style ( Mobile )"
+msgstr ""
+
+#: includes/options-kirki.php:943
+msgid "Menu Style Status ( Mobile )"
+msgstr ""
+
+#: includes/options-kirki.php:955
+msgid "SP: Basic Settings"
+msgstr ""
+
+#: includes/options-kirki.php:963
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/options-kirki.php:972
+msgid "404 Page Content"
+msgstr ""
+
+#: includes/options-kirki.php:989
+msgid "Header Tracking Code"
+msgstr ""
+
+#: includes/options-kirki.php:998
+msgid "Footer Tracking Code"
+msgstr ""
+
+#: includes/options-kirki.php:1007
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/options-kirki.php:1016
+msgid "Section Order"
+msgstr ""
+
+#: includes/options-kirki.php:1027
+msgid "SP: Footer"
+msgstr ""
+
+#: includes/options-kirki.php:1095
+msgid "Display Footer Widgets on Front Page"
+msgstr ""
+
+#: includes/options-kirki.php:1104
+msgid "Copyright"
+msgstr ""
+
+#: includes/options-kirki.php:1193
+msgid "SP: Typography"
+msgstr ""
+
+#: includes/options-kirki.php:1200
+msgid "General"
+msgstr ""
+
+#: includes/options-kirki.php:1208
+msgid "Load Google Fonts"
+msgstr ""
+
+#: includes/options-kirki.php:1212
+msgid "For example:  Open+Sans:300,400,700|Oswald"
+msgstr ""
+
+#: includes/options-kirki.php:1220
+msgid "Content Link Color"
+msgstr ""
+
+#: includes/options-kirki.php:1229
+msgid "Content Link Mouseover Color"
+msgstr ""
+
+#: includes/options-kirki.php:1239
+msgid "Home Page Menu Active Color"
+msgstr ""
+
+#: includes/options-kirki.php:1248
+msgid "Page Menu Active Color"
+msgstr ""
+
+#: includes/options-kirki.php:1263
+msgid "Side Nav Menu Active Color"
+msgstr ""
+
+#: includes/options-kirki.php:1278
+msgid "Copyright Font Color"
+msgstr ""
+
+#: includes/options-kirki.php:1294
+msgid "Font"
+msgstr ""
+
+#: includes/options-kirki.php:1302
+msgid "Blog Menu Typography"
+msgstr ""
+
+#: includes/options-kirki.php:1316
+msgid "Homepage Side Nav Menu Typography"
+msgstr ""
+
+#: includes/options-kirki.php:1330
+msgid "Pages & Posts Title Typography"
+msgstr ""
+
+#: includes/options-kirki.php:1344
+msgid "Pages & Posts Content Typography"
+msgstr ""
+
+#: includes/theme-setup.php:23
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme-setup.php:23
+msgid "Home Page Top Menu"
+msgstr ""
+
+#: includes/theme-widgets.php:6
+msgid "Default Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:14
+msgid "Displayed Everywhere"
+msgstr ""
+
+#: includes/theme-widgets.php:23
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:31
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:40
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:49
+msgid "Footer Area One"
+msgstr ""
+
+#: includes/theme-widgets.php:57
+msgid "Footer Area Two"
+msgstr ""
+
+#: includes/theme-widgets.php:65
+msgid "Footer Area Three"
+msgstr ""
+
+#: includes/theme-widgets.php:73
+msgid "Footer Area Four"
+msgstr ""
+
+#: page.php:63 single.php:42
+msgid "Pages:"
+msgstr ""
+
+#: search.php:31
+msgid "No results found"
+msgstr ""

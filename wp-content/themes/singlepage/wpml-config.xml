@@ -1,0 +1,55 @@
+<wpml-config>
+      <admin-texts>
+        <key name='singlepage'>
+		    <!-- section 1 -->
+            <key name='section_title_0' />
+            <key name='section_menu_title_0' />
+			<key name='section_content_0' />
+			<!-- section 2 -->
+            <key name='section_title_1' />
+            <key name='section_menu_title_1' />
+			<key name='section_content_1' />
+			<!-- section 3 -->
+            <key name='section_title_2' />
+            <key name='section_menu_title_2' />
+			<key name='section_content_2' />
+			<!-- section 4 -->
+            <key name='section_title_3' />
+            <key name='section_menu_title_3' />
+			<key name='section_content_3' />
+			<!-- section 5 -->
+            <key name='section_title_4' />
+            <key name='section_menu_title_4' />
+			<key name='section_content_4' />
+			<!-- section 6 -->
+            <key name='section_title_5' />
+            <key name='section_menu_title_5' />
+			<key name='section_content_5' />
+			<!-- section 7 -->
+            <key name='section_title_6' />
+            <key name='section_menu_title_6' />
+			<key name='section_content_6' />
+			<!-- section 8 -->
+            <key name='section_title_7' />
+            <key name='section_menu_title_7' />
+			<key name='section_content_7' />
+			<!-- section 9 -->
+            <key name='section_title_8' />
+            <key name='section_menu_title_8' />
+			<key name='section_content_8' />
+			<!-- section 10 -->
+            <key name='section_title_9' />
+            <key name='section_menu_title_9' />
+			<key name='section_content_9' />
+			
+			<key name='google_map_address' />
+			<key name='google_map_start' />
+			<key name='google_map_end' />
+			<key name='google_map_infowindow' />
+			
+			<key name='page_404_content' />
+			<key name='copyright' />
+				
+        </key>
+    </admin-texts>
+</wpml-config>

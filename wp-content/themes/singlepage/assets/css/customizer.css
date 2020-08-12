@@ -1,0 +1,11 @@
+.customize-control-editor .customize-editor-control{
+	width:100%;
+}
+#sub-accordion-panel-singlepage_homepage > li.control-section > .accordion-section-title i {
+	float: left;
+    margin-top: 4px;
+    padding-right: 6px;
+}
+#customize-control-singlepage_pro-section_order{
+	display:none !important;
+}
